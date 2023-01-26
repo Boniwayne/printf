@@ -1,4 +1,4 @@
-print f group project between Olowookun Sunday and Adewumi Egbebi
+print f group project between Bonface Ochieng  and Benard Maina
 0x11. C - printf team project
 
 Group Project:                                                                      
