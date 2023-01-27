@@ -62,4 +62,4 @@ Handle the following custom conversion specifier:
 15. *                                                                               
 All the above options work well together.
 
-This project has been contributed by two Developers [Boni wayne](github.com/Boniwayne) and [Maina git](github.com/mainagit)
+This project has been contributed by two Developers [Boni wayne](github.com/Boniwayne/printf) and [Maina git](github.com/mainagit)
